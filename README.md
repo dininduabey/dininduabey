@@ -35,7 +35,7 @@ When I’m not in class, I’m building security tools in my home lab or breakin
 
 **Tools I'm familiar with**:  
 Kali • VS Code • Git • Burp Suite • Wireshark • Maltego
-
+<br>
 </td>
   </tr>
 </table>
