@@ -2,8 +2,6 @@
 I'm **Dinindu Abeysuriya**, a Cybersecurity Undergraduate graduating in ~8 months.  
 When I’m not in class, I’m building security tools in my home lab or breaking things (so I can secure them better!).
 
-<br>
-
 <table>
   <tr>
     <td valign="top" width="33%">
@@ -35,7 +33,7 @@ When I’m not in class, I’m building security tools in my home lab or breakin
 
 **Tools I'm familiar with**:  
 Kali • VS Code • Git • Burp Suite • Wireshark • Maltego
-<br>
+
 </td>
   </tr>
 </table>
