@@ -38,5 +38,5 @@ Kali • VS Code • Git • Burp Suite • Wireshark • Maltego
   </tr>
 </table>
 
-### 🏅 TryHackMe Badges  
+### 🏅 TryHackMe,  
 ![TryHackMe Badge](assets/tryhackme-badge.png)
