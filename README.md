@@ -1,81 +1,58 @@
-## Hi there 👋
+## Hi there 👋  
+I'm **Dinindu Abeysuriya**, a Cybersecurity Undergraduate graduating in ~8 months.  
+I build solo security projects in my virtual lab—focused on threat detection, automation, and hardening.
 
-I'm **Dinindu Abeysuriya**, a Cybersecurity Undergraduate who will be graduating in about 8 months.  
-I love working on solo cybersecurity projects inside my virtual lab environment, experimenting with threat detection, automation, and system hardening.
+<br>
 
----
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-## 🧑‍💻 About Me
-- 🔐 Cybersecurity enthusiast with hands-on experience in VMs  
-- 🐧 Linux enjoyer (Kali + Ubuntu)  
-- 🧪 Experimenting with honeypots, ELK stack, and security automations  
-- 🐍 Python scripting (with the help of AI to boost capability)  
-- 🔍 Passionate about learning, breaking, securing, and repeating  
+### 🧑‍💻 About Me
+- 🔐 Hands-on in VM labs  
+- 🐧 Kali + Ubuntu user  
+- 🧪 Honeypots | ELK | Automation  
+- 🐍 Python + AI scripting  
+- 🔍 Learn → Break → Secure → Repeat  
 
----
+### 🏆 Certifications
+- Google Cybersecurity Pro Cert  
+- NYU: Intro to Cyber Security  
+- ISC2 Certified in Cybersecurity (CC)  
+- 50+ TryHackMe rooms & labs  
+- Built custom security tools  
 
-## 🏆 Achievements & Certifications
-Here are some of my most notable achievements:
-- **Google Cybersecurity Professional Certificate**  
-- **NYU – Introduction to Cyber Security (Full Course Chain)**  
-- **ISC2 – CC (Certified in Cybersecurity) Self-Paced Training**  
-- Completed many **TryHackMe** rooms, cybersecurity labs, & challenges  
-- Built multiple independent cybersecurity tools and scripts  
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 1. E-Voting System (Final Year University Project)
-A secure electronic voting system built by myself and two teammates:
-- User-friendly UI  
-- Biometric authentication  
-- Blockchain (Ganache local network)  
-- Smart contracts with **Solidity**  
-- **React + Node.js** stack  
-- Cloud backup & recovery  
-- Encryption, hashing, and privacy-preserving mechanisms throughout  
-
-### 🔹 2. Honeypot Using ELK Stack (Ubuntu)
-- Built a custom honeypot using **Cowrie**  
-- Integrated **ELK** for log collection + visualization  
-- Automated parts using Python + AI  
-- Conducted basic threat analysis on simulated attacks  
-
----
-
-## 🛠 Skills & Technologies
-
-### 🧩 Core Security Skills
-- Linux (Kali, Ubuntu)  
-- Python automation & scripting  
-- Threat detection & monitoring  
-- Wireshark  
-- Nmap  
-- Honeypots  
-- ELK Stack  
-
-### 🧰 Tools I Use
-- Kali Linux  
-- Burp Suite  
-- Wireshark  
-- VS Code  
-- Git & GitHub  
-- VirtualBox  
-- Ettercap  
-- Maltego  
-
----
-
-## 🎯 Career Goals
-I’m aiming to become a:
+### 🎯 Career Goals
 - **Penetration Tester**  
 - **Threat Analyst**
 
-I enjoy exploring new security tools and continuously upgrading my skills.
+</td>
+    <td valign="top" width="50%">
 
----
+### 🚀 Featured Projects
 
-## 🏅 TryHackMe Badges
+🔹 **E-Voting System** (Final Year)  
+- Biometric auth + Blockchain (Ganache)  
+- Solidity smart contracts  
+- React + Node.js | Cloud backup  
+- End-to-end encryption & privacy  
 
+🔹 **ELK Honeypot** (Ubuntu)  
+- Custom Cowrie honeypot  
+- ELK stack for log analysis  
+- Python/AI automation  
+- Simulated attack detection  
+
+### 🛠 Skills & Tools
+
+**Core**: Linux, Python, Wireshark, Nmap, ELK, Honeypots  
+**Tools**: Kali, Burp Suite, VS Code, Git, VirtualBox, Ettercap, Maltego
+
+</td>
+  </tr>
+</table>
+
+<br>
+
+### 🏅 TryHackMe Badges
 ![TryHackMe Badge](assets/tryhackme-badge.png)
