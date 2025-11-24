@@ -32,7 +32,7 @@ When I’m not in class, I’m building security tools in my home lab or breakin
 - Share knowledge with the infosec community  
 
 **Tools I'm familiar with**:  
-Kali • VS Code • Git • Burp Suite • Wireshark • Maltego
+Kali • VS Code • Git • Burp Suite • Wireshark • Maltego • Nmap • Ettercap
 
 </td>
   </tr>
