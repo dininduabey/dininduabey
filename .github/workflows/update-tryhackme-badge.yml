@@ -1,0 +1,20 @@
+name: Update TryHackMe Badge
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # Runs every day at midnight UTC (you can leave this)
+  workflow_dispatch:      # Allows manual run
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch TryHackMe Badge
+        uses: DhanushNehru/tryhackme-badge-action-workflow@main
+        with:
+          username: 'dininduabey'
+          image_path: './assets/tryhackme-badge.png'
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
