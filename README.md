@@ -1,52 +1,42 @@
 ## Hi there 👋  
 I'm **Dinindu Abeysuriya**, a Cybersecurity Undergraduate graduating in ~8 months.  
-I build solo security projects in my virtual lab—focused on threat detection, automation, and hardening.
+When I’m not in class, I’m building security tools in my home lab or breaking things (so I can secure them better!).
 
 <br>
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="33%">
 
 ### 🧑‍💻 About Me
-- 🔐 Hands-on in VM labs  
-- 🐧 Kali + Ubuntu user  
-- 🧪 Honeypots | ELK | Automation  
-- 🐍 Python + AI scripting  
-- 🔍 Learn → Break → Secure → Repeat  
+- 🇱🇰 Based in Sri Lanka  
+- 🧠 Curious learner who loves deep dives into how systems work  
+- 🔒 Driven by the mindset: *“If I can break it, I can protect it.”*  
+- 🏗️ Built my own virtual cybersecurity lab from scratch  
+- 🤖 Always exploring how AI can boost security workflows  
 
-### 🏆 Certifications
-- Google Cybersecurity Pro Cert  
+</td>
+    <td valign="top" width="33%">
+
+### 🏆 Achievements
+- Google Cybersecurity Professional Cert  
 - NYU: Intro to Cyber Security  
 - ISC2 Certified in Cybersecurity (CC)  
 - 50+ TryHackMe rooms & labs  
-- Built custom security tools  
-
-### 🎯 Career Goals
-- **Penetration Tester**  
-- **Threat Analyst**
+- Custom Cowrie honeypot + ELK stack  
+- Final-year e-voting project with blockchain  
 
 </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="33%">
 
-### 🚀 Featured Projects
+### 🚀 Goals & Interests
+- Become a **Penetration Tester** or **Threat Analyst**  
+- Master red + blue team techniques  
+- Contribute to open-source security tools  
+- Share knowledge with the infosec community  
 
-🔹 **E-Voting System** (Final Year)  
-- Biometric auth + Blockchain (Ganache)  
-- Solidity smart contracts  
-- React + Node.js | Cloud backup  
-- End-to-end encryption & privacy  
-
-🔹 **ELK Honeypot** (Ubuntu)  
-- Custom Cowrie honeypot  
-- ELK stack for log analysis  
-- Python/AI automation  
-- Simulated attack detection  
-
-### 🛠 Skills & Tools
-
-**Core**: Linux, Python, Wireshark, Nmap, ELK, Honeypots  
-**Tools**: Kali, Burp Suite, VS Code, Git, VirtualBox, Ettercap, Maltego
+**Tools I live in**:  
+Kali • VS Code • Git • Burp Suite • Wireshark • Maltego
 
 </td>
   </tr>
@@ -54,5 +44,10 @@ I build solo security projects in my virtual lab—focused on threat detection, 
 
 <br>
 
-### 🏅 TryHackMe Badges
+### 🛠 Featured Work (Hover pins below ↓)  
+*(Your GitHub pinned repos will show right here!)*
+
+<br>
+
+### 🏅 TryHackMe Badges  
 ![TryHackMe Badge](assets/tryhackme-badge.png)
